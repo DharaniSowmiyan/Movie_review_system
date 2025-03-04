@@ -6,27 +6,27 @@ This project is a full-stack authentication system built using the PERN stack (P
 
 # Features
 
-User Authentication: Secure login and registration system
+**User Authentication**: Secure login and registration system
 
-Frontend: Built using React, Vite, and Tailwind CSS for a fast and responsive UI
+**Frontend**: Built using React, Vite, and Tailwind CSS for a fast and responsive UI
 
-Backend: Node.js and Express.js for handling API requests
+**Backend**: Node.js and Express.js for handling API requests
 
-Database: PostgreSQL for storing user data
+**Database**: PostgreSQL for storing user data
 
-Web Scraping: Automated data extraction using scripts
+**Web Scraping**: Automated data extraction using scripts
 
-RESTful API: Designed for seamless communication between frontend and backend
+**RESTful API**: Designed for seamless communication between frontend and backend
 
-Technologies Used
+# Technologies Used
 
-Frontend: React, Vite, Tailwind CSS
+**Frontend**: React, Vite, Tailwind CSS
 
-Backend: Node.js, Express.js
+**Backend**: Node.js, Express.js
 
-Database: PostgreSQL
+**Database**: PostgreSQL
 
-Other: Web scraping scripts (Node.js)
+**Other**: Web scraping scripts (Node.js)
 
 # Project Structure
 
@@ -46,12 +46,12 @@ pern-login-master
 
 # Installation & Setup
 
-1. Clone the repository
+# 1. Clone the repository
 
 git clone https://github.com/your-username/pern-login.git
 cd pern-login
 
-2. Install dependencies
+# 2. Install dependencies
 
 Frontend
 
@@ -65,7 +65,7 @@ cd server
 npm install
 node server.js
 
-3. Database Setup
+# 3. Database Setup
 
 Create a PostgreSQL database
 
